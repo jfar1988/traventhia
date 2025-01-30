@@ -1,0 +1,98 @@
+{
+  "images": [
+    {
+      "src": "/images/destinos/Auckland1.jpg",
+      "alt": "Image 1",
+      "filters": ["playa"]
+    },
+    {
+      "src": "/images/destinos/Cusco.jpg",
+      "alt": "Image 2",
+      "filters": ["ciudad"]
+    },
+    {
+      "src": "/images/destinos/algarve.webp",
+      "alt": "Image 3",
+      "filters": ["montana"]
+    },
+    {
+      "src": "/images/destinos/paris.jpg",
+      "alt": "Image 3",
+      "filters": ["bosque"]
+    },
+    {
+      "src": "/images/destinos/berlin.jpg",
+      "alt": "Image 3",
+      "filters": ["playa"]
+    },
+    {
+      "src": "/images/destinos/playa_del-carmen.jpg",
+      "alt": "Image 3",
+      "filters": ["ciudad"]
+    },
+    {
+      "src": "/images/destinos/reykjavik.jpg",
+      "alt": "Image 3",
+      "filters": ["montana"]
+    },
+    {
+      "src": "/images/destinos/berlin.jpg",
+      "alt": "Image 3",
+      "filters": ["bosque"]
+    },
+    {
+      "src": "/images/destinos/chamonix.jpg",
+      "alt": "Image 1",
+      "filters": ["playa"]
+    },
+    {
+      "src": "/images/destinos/rio_de_janeiro.jpg",
+      "alt": "Image 2",
+      "filters": ["ciudad"]
+    },
+    {
+      "src": "/images/destinos/roma.jpg",
+      "alt": "Image 3",
+      "filters": ["montana"]
+    },
+    {
+      "src": "/images/destinos/honolulu.webp",
+      "alt": "Image 3",
+      "filters": ["bosque"]
+    },
+    {
+      "src": "/images/destinos/toronto.jpg",
+      "alt": "Image 3",
+      "filters": ["playa"]
+    },
+    {
+      "src": "/images/destinos/lisboa.webp",
+      "alt": "Image 3",
+      "filters": ["ciudad"]
+    },
+    {
+      "src": "/images/destinos/granada.jpg",
+      "alt": "Image 3",
+      "filters": ["montana"]
+    },{
+      "src": "/images/destinos/honolulu.webp",
+      "alt": "Image 3",
+      "filters": ["bosque"]
+    },
+    {
+      "src": "/images/destinos/toronto.jpg",
+      "alt": "Image 3",
+      "filters": ["playa"]
+    },
+    {
+      "src": "/images/destinos/lisboa.webp",
+      "alt": "Image 3",
+      "filters": ["ciudad"]
+    },
+    {
+      "src": "/images/destinos/granada.jpg",
+      "alt": "Image 3",
+      "filters": ["montana"]
+    }
+  ]
+}
