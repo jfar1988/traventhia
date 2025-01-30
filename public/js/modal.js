@@ -8,7 +8,7 @@ let currentQuestionIndex = 0;
 let destinationData = [];
 
 // Cargar datos desde el archivo JSON
-fetch('public/js/destinationData.json')
+fetch('/js/destinationData.json')
   .then((response) => response.json())
   .then((data) => {
     destinationData = data;
